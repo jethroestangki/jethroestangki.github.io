@@ -1,4 +1,0 @@
-theme: jekyll-theme-cayman
-safe: false
-plugins:
-  - jekyll-redirect-from
